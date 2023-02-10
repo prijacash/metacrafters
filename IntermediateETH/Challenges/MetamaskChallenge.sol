@@ -1,3 +1,5 @@
+
+// Metamask Challenge only Script
 // Check if the user has Metamask installed
 if (typeof window.ethereum === 'undefined') {
   console.error('Please install Metamask to continue.');
